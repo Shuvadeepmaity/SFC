@@ -1,0 +1,18 @@
+1.What is the total sales in the last 8 months?
+
+2.What is the total number of items sold in the last 8 months?
+
+3.What is the total number of invoices in the last 8 months?
+
+4.What is the top-selling item in the last 9 months?
+
+___________________________________________________________________________________
+
+5.What is the category with the 2nd highest number of items sold in the last 9 months?
+
+6.What is the highest selling item in the category of ANMAKO?
+
+7.which members are coming frequently more then 3 times in the last 4 months?
+
+8.How many customers repeatedly buying from the same sub group and what is the name of sub group?
+
